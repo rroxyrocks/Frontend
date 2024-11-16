@@ -1,6 +1,6 @@
 import Frontendlogin from "./Frontendlogin";
-import Accountdashboard from "./Accountdashboard";
-import Createaccount from "./Createaccount";
+import Accountdashboard from "./Components/Accountdashboard";
+import Createaccount from "./Components/Createaccount";
 
 function App() {
   return (

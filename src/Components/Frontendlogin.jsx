@@ -1,5 +1,5 @@
 import React from 'react'
-import Createaccount from './Createaccount'
+import Createaccount from './Components/Createaccount'
 
 const Frontendlogin = () => {
   return (
